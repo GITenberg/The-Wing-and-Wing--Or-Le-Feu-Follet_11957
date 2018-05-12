@@ -1,5 +1,8 @@
 _repo: The-Wing-and-Wing--Or-Le-Feu-Follet_11957
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cooper, James Fenimore
@@ -17,6 +20,8 @@ description: The year is 1799. Admiral Caraccioli is about to be executed on Lor
   privateer Raoul Yvard and his wily American sailing master Ithuel Bolt harass the
   British fleet. Yvard is captured but cunningly escapes, setting up a showdown at
   sea.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11957#The-Wing-and-Wing--Or-Le-Feu-Follet
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
